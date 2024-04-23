@@ -47,7 +47,6 @@ body {
   justify-content: center;
 }
 
-
 .project-container {
   margin: 30px;
   padding: 20px 20px;
@@ -113,6 +112,10 @@ body {
   .i_w_container {
     padding: 20% 0;
     margin: 0 10px;
+  }
+
+  .project-container {
+    margin: 30px 15px;
   }
 
   .project-content {

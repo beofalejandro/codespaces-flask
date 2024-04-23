@@ -12,9 +12,9 @@ app = fk(__name__)
 def index():
     return rt('index.html')
 
-#@app.route('/about')
-#def about():
-#    return rt('about.html')
+@app.route('/about')
+def about():
+    return rt('about.html')
 
 
 # Methods for index page
