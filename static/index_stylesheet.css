@@ -51,7 +51,7 @@ body {
   margin: 30px;
   padding: 20px 20px;
   border-radius: 7px;
-  background-color: #BB0A21;
+  background-color: #19647E;
   color: #FFF;
 }
 
@@ -74,9 +74,9 @@ body {
 .form-container {
   display: flex;
   justify-content: center;
-  padding: 3px;
+  padding: 5px;
   background-color: #EEEEEE;
-  border-radius: 7px;
+  border-radius: 5px;
   width: 50%;
 }
 
@@ -115,7 +115,7 @@ body {
   }
 
   .project-container {
-    margin: 30px 15px;
+    margin: 30px 20px;
   }
 
   .project-content {

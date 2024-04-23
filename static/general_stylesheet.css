@@ -79,7 +79,7 @@ body {
 .button {
   background-color: #eeeeee;
   color: #000;
-  margin: 0 3px;
+  margin: 5px 3px;
   cursor: pointer;
   border: 1px solid transparent;
   font-size: 14px;
